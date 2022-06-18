@@ -1,0 +1,29 @@
+=========================================================================================================================
+									Forgoten Town : By Bowserslair97													
+=========================================================================================================================
+	This will include a small trader community with the lootspawns to the town. 
+	If you would like to change anything ill also inclue the dayz editor file.
+
+How To istall this .json file?
+	Look for the file ForgotenTown.json 
+	Upload to you custom folder. 
+	Enable your cfggameplay file in general if you havent already. 
+	in cfggameplay.json look for the object spawner and put something like this= "objectSpawnersArr": ["custom/ForgotenTown.json"]
+	if you already have a .json file in that area you can add to it like this="objectSpawnersArr": ["custom/ForgotenTown.json","custom/filename.json"]
+	
+	
+How to enable the lootspawns
+	Look for the ForgotenTown Mapgrouppos.xml snippet. 
+	Open file and copy and paste into your existing mapgrouppos.xml file. 
+	You may make a comment in your file so you know what this is later= <!--Comment--> 
+	
+How to get this .json in my editor? 
+	Once you load your editor go to "File" 
+	Click on "Import" 
+	Look for the ForgotenTown.dze if downloaded .json files work aswell. 
+	Once loaded click save and make any changes you would like. 
+	then you export your file to what ever you may want to call it. 
+	
+==========================================================================================================================
+									Hope you enjoy, Thank you.
+==========================================================================================================================
